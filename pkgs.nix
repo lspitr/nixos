@@ -6,18 +6,14 @@
     jdk21
     jdk17
     jdk8
-
     discord
-
+    element-desktop
     obs-studio
     kdenlive
-
     spotify
-    spotifyd
     libreoffice-qt
     p7zip
     torrent7z
-
     kitty
     picom-pijulius
     zsh
