@@ -24,5 +24,6 @@
     nixfmt-rfc-style
     resources
     filezilla
+    ventoy
   ];
 }
